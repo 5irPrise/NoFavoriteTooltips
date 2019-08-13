@@ -1,0 +1,3 @@
+displayName = No Favorite Tooltips
+author = 5ir Prise
+version = 1.0
