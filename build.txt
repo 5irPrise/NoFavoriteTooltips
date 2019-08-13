@@ -1,3 +1,5 @@
 displayName = No Favorite Tooltips
 author = 5ir Prise
 version = 1.0
+homepage = https://github.com/5irPrise/NoFavoriteTooltips
+side = Client
